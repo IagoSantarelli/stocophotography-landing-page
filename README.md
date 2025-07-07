@@ -2,7 +2,7 @@
 
 Este repositório contém uma página de destino simples criada com HTML, CSS, JavaScript e TypeScript.
 
-A página inclui uma seção hero, uma barra de navegação superior e as seções "Quem Somos" e "Nossos Serviços".
+A página inclui uma seção hero, uma barra de navegação superior e as seções "Quem Sou Eu" e "Nossos Serviços".
 
 ## Desenvolvimento
 
