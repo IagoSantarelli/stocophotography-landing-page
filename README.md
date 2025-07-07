@@ -2,6 +2,8 @@
 
 This repository contains a simple landing page using HTML, CSS, JavaScript, and TypeScript.
 
+The page now includes a hero section and a top navigation bar for quick access to its main sections.
+
 ## Development
 
 1. Edit files in the `src` directory for TypeScript code.
