@@ -1,11 +1,11 @@
-# StocoPhotography Landing Page
+# StocoPhotography - Página Inicial
 
-This repository contains a simple landing page using HTML, CSS, JavaScript, and TypeScript.
+Este repositório contém uma página de destino simples criada com HTML, CSS, JavaScript e TypeScript.
 
-The page now includes a hero section and a top navigation bar for quick access to its main sections.
+A página inclui uma seção hero e uma barra de navegação superior para acesso rápido às principais seções.
 
-## Development
+## Desenvolvimento
 
-1. Edit files in the `src` directory for TypeScript code.
-2. Run `npx tsc` to compile the TypeScript code to JavaScript in the `dist` directory.
-3. Open `index.html` in a browser to view the landing page.
+1. Edite os arquivos no diretório `src` para o código TypeScript.
+2. Execute `npx tsc` para compilar o código TypeScript para JavaScript no diretório `dist`.
+3. Abra `index.html` em um navegador para visualizar a página.

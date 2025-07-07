@@ -1,5 +1,5 @@
 "use strict";
-var message = 'Welcome to StocoPhotography!';
+var message = 'Bem-vindo à StocoPhotography!';
 document.addEventListener('DOMContentLoaded', function () {
     var heading = document.getElementById('hero-heading');
     if (heading) {

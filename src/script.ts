@@ -1,4 +1,4 @@
-const message: string = 'Welcome to StocoPhotography!';
+const message: string = 'Bem-vindo à StocoPhotography!';
 
 document.addEventListener('DOMContentLoaded', () => {
   const heading = document.getElementById('hero-heading');
